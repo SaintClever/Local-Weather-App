@@ -1,0 +1,23 @@
+body {
+	font-size: 1.5em;
+	color: white;
+	background-color: teal;
+}
+
+#container {
+	margin-top: 100px;
+	font-family: 'Merriweather', serif;
+	text-align: center;
+	background-color: rgba(0, 0, 0, .5);
+	padding: 25px 0;
+}
+
+#forecast {
+	padding-left: 0;
+}
+
+#forecast li {
+	display: inline-block;
+	list-style-type: none;
+	margin: 0 0 25px 25px;
+}
